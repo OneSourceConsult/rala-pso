@@ -97,6 +97,37 @@ Each scaling level includes:
 - Python 3.x
 - NumPy
 
+## How to cite
+
+If you use this repository in academic work, research, or technical reports, please cite it using one of the formats below.
+
+### MLA
+
+OneSource Consult. RALA-PSO. 2025,
+https://github.com/OneSourceConsult/rala-pso
+
+### APA (7th edition)
+
+OneSource Consult. (2025). RALA-PSO.
+https://github.com/OneSourceConsult/rala-pso
+
+### ISO 690
+
+OneSource Consult. **RALA-PSO**. 2025. Available at:  
+https://github.com/OneSourceConsult/rala-pso.  
+Accessed: Jul. 30, 2025.
+
+### BibTeX
+
+```bibtex
+@misc{rala_pso_2025,
+  author       = {{OneSource Consult}},
+  title        = {{RALA-PSO}},
+  year         = {2025},
+  howpublished = {\url{https://github.com/OneSourceConsult/rala-pso}},
+  note         = {Accessed: Jul. 30, 2025}
+}
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -104,3 +135,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+
